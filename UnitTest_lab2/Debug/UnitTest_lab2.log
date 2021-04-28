@@ -1,0 +1,40 @@
+﻿  UnitTest_lab2.cpp
+D:\Программирование\4 сем\laba2\Program2\Shannon-Fano.h(80,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\laba2\Program2\Shannon-Fano.h(105,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\laba2\Program2\Shannon-Fano.h(116,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\laba2\Program2\Shannon-Fano.h(121,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\laba2\UnitTest_lab2\UnitTest_lab2.cpp(539,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\laba2\Program2\List.inl(120,12): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\laba2\Program2\List.inl(119): message : во время компиляции функции-члена класс шаблон "data_T List<data_T>::at(const int)"
+          with
+          [
+              data_T=std::string
+          ]
+D:\Программирование\4 сем\laba2\UnitTest_lab2\UnitTest_lab2.cpp(134): message : выполняется компиляция ссылки на экземпляр шаблон функции "data_T List<data_T>::at(const int)"
+          with
+          [
+              data_T=std::string
+          ]
+D:\Программирование\4 сем\laba2\UnitTest_lab2\UnitTest_lab2.cpp(132): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<data_type>"
+          with
+          [
+              data_type=std::string
+          ]
+D:\Программирование\4 сем\laba2\Program2\RB-Tree.h(98,1): warning C4267: =: преобразование из "size_t" в "A_type"; возможна потеря данных
+          with
+          [
+              A_type=char
+          ]
+D:\Программирование\4 сем\laba2\Program2\Shannon-Fano.h(96): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree_Node<char,size_t>::A_input<char>(Tree_Node<char,size_t> *,A_type *,size_t)"
+          with
+          [
+              A_type=char
+          ]
+D:\Программирование\4 сем\laba2\Program2\Shannon-Fano.h(96): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree_Node<char,size_t>::A_input<char>(Tree_Node<char,size_t> *,A_type *,size_t)"
+          with
+          [
+              A_type=char
+          ]
+D:\Программирование\4 сем\laba2\Program2\List.inl(131): warning C4715: List<int>::at: значение возвращается не при всех путях выполнения
+D:\Программирование\4 сем\laba2\Program2\List.inl(131): warning C4715: List<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::at: значение возвращается не при всех путях выполнения
+  UnitTest_lab2.vcxproj -> D:\Программирование\4 сем\laba2\program2\Debug\UnitTest_lab2.dll

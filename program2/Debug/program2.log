@@ -1,0 +1,21 @@
+﻿  Main.cpp
+D:\Программирование\4 сем\laba2\program2\Shannon-Fano.h(80,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\laba2\program2\Shannon-Fano.h(105,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\laba2\program2\Shannon-Fano.h(116,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\laba2\program2\Shannon-Fano.h(121,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\laba2\program2\RB-Tree.h(98,1): warning C4267: =: преобразование из "size_t" в "A_type"; возможна потеря данных
+          with
+          [
+              A_type=char
+          ]
+D:\Программирование\4 сем\laba2\program2\Shannon-Fano.h(96): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree_Node<char,size_t>::A_input<char>(Tree_Node<char,size_t> *,A_type *,size_t)"
+          with
+          [
+              A_type=char
+          ]
+D:\Программирование\4 сем\laba2\program2\Shannon-Fano.h(96): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree_Node<char,size_t>::A_input<char>(Tree_Node<char,size_t> *,A_type *,size_t)"
+          with
+          [
+              A_type=char
+          ]
+  program2.vcxproj -> D:\Программирование\4 сем\laba2\program2\Debug\program2.exe
